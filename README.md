@@ -10,4 +10,4 @@ It provides code and configuration examples for reproducibility evaluation, simu
 ### Use case AI : AI-sTIL 
 
 ### Citation
-Ranjbar S. *et al.* A Roadmap for Pathology AI Clinical Integration: Lessons Learned. *Under review
+Ranjbar S. *et al.* A Roadmap for Pathology AI Clinical Integration: Lessons Learned. Under review
