@@ -6,7 +6,6 @@ It provides code for reproducibility evaluation and simulation analysis.
 ### Repository Structure
 ```
 .
-├── docs/ 
 ├── ReproducibilityEvaluation/ 
 │   ├──xxx.py
 ├── SimulationAnalysis/ 
