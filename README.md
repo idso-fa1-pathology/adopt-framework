@@ -7,10 +7,10 @@ It provides code for reproducibility evaluation and simulation analysis.
 ```
 .
 ├── ReproducibilityEvaluation/ 
-│   ├  aistil-determining-instructions-for-use-20251103.html
-│  ├─ aiistil-determining-instructions-for-use-20251103.ipynb
+│   ├──  aistil-determining-instructions-for-use-20251103.html
+│   ├──  aiistil-determining-instructions-for-use-20251103.ipynb
 ├── SimulationAnalysis/ 
-│   ├── simulation_analysis_2by2_tables.py
+│   ├──  simulation_analysis_2by2_tables.py
 │   ├──  slide_pathologist_review.R
 │   ├──  slide_simulation_correlation_external86.R
 │   ├──  slide_simulation_correlation_internal80.R
