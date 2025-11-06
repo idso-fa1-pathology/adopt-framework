@@ -7,7 +7,7 @@ This repository contains the code necessary for the analysis of the data present
 ### Repository Structure
 ```
 .
-├── ReproducibilityEvaluation/ 
+├── ReproducibilityAnalysis/ 
 │   ├──  aistil-determining-instructions-for-use-20251103.html
 │   ├──  aiistil-determining-instructions-for-use-20251103.ipynb
 ├── SimulationAnalysis/ 
@@ -20,13 +20,13 @@ This repository contains the code necessary for the analysis of the data present
 
 # Content of files 
 
-- [ReproducibilityEvaluation](./ReproducibilityEvaluation/aiistil-determining-instructions-for-use-20251103.ipynb)]:
+- [aiistil-determining-instructions-for-use-20251103.ipynb](./ReproducibilityAnalysis/aiistil-determining-instructions-for-use-20251103.ipynb)]:
 	- Statistical comparison of patient cohorts
 	- Reproducibility testing analysis
 	- Comparison of sTIL vs AI scores
 	- Generalizability testing results 
 	
--   [SimulationAnalysis](./SimulationAnalysis/simulation_analysis_2by2_tables.py)]:
+-   [simulation_analysis_2by2_tables.py](./SimulationAnalysis/simulation_analysis_2by2_tables.py)]:
 	- plots Figure 5A
  
 -   [slide_pathologist_review.R](./SimulationAnalysis/slide_pathologist_review.R)]:
