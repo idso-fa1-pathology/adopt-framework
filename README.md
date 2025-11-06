@@ -20,7 +20,7 @@ This repository contains the code necessary for the analysis of the data present
 
 # Content of files 
 
-- [aistil-determining-instructions-for-use-20251103.ipynb](./ReproducibilityAnalysis/aiistil-determining-instructions-for-use-20251103.ipynb)]: delivers
+- [aistil-determining-instructions-for-use-20251103.ipynb](./ReproducibilityAnalysis/aiistil-determining-instructions-for-use-20251103.ipynb)]: includes
 	- Statistical analysis of supplementary Table S2 
 	- Statistical analysis of supplementary Table S3 
 	- Figure 4
