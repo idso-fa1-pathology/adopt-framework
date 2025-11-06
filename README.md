@@ -25,7 +25,7 @@ This repository contains the code necessary for the analysis of the data present
 	- Statistical analysis of supplementary Table S3 
 	- Figure 4
 	- Figure S3
-	
+- [aistil-determining-instructions-for-use-20251103.html](./ReproducibilityAnalysis/aiistil-determining-instructions-for-use-20251103.html)]: the html version of the above.
 -   [simulation_analysis_2by2_tables.py](./SimulationAnalysis/simulation_analysis_2by2_tables.py)]: plots Figure 5A.
 -   [slide_pathologist_review.R](./SimulationAnalysis/slide_pathologist_review.R)]: plots Figure S4.
 -   [slide_simulation_correlation_external86.R](./SimulationAnalysis/slide_simulation_correlation_external86.R)]: plots Figure S2B - right side panels.
